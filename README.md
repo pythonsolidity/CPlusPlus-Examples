@@ -1,2 +1,2 @@
-# CPlusPlusBeginnerExamples
-Some C++ programs for beginners
+# CPlusPlusExamples
+Some C++ programs for beginner and intermediate level programmers
