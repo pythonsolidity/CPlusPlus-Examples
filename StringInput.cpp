@@ -19,7 +19,7 @@ int main ()
   {
       j++;
       cout << c;
-      j < mystr.length() ? cout << ", " : cout << " ";
+      j < mystr.length() ? cout << ", " : cout << ". ";
   }
   
   stringstream (mystr) >> i;
