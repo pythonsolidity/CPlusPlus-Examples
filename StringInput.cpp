@@ -9,7 +9,7 @@ using namespace std;
 int main ()
 {
   int i;
-  unsigned j;
+  unsigned j = 0;
   string mystr;
   cout << "Please enter an integer: ";
   getline (cin , mystr);
