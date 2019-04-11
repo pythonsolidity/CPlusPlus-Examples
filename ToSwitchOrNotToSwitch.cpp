@@ -30,7 +30,7 @@ int main ()
       cout << "The first letter is the vowel: "<< 'u';
       break;
       default: 
-      cout << "The first letter is not a vowel";
+      cout << "The first letter is not a consonant";
   }
   return 0;
 }
