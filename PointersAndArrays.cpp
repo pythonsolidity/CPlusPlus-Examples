@@ -10,7 +10,7 @@ int main ()
     pt = arr;     // no & operator, an array points to its first element 
     *pt = 1;
   
-    pt++;  
+    pt++;          // pointer arithmetic
     *pt = 2;
   
     pt = arr + 2;  
