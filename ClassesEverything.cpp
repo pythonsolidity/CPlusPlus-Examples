@@ -15,9 +15,9 @@ class Hypercube {
     double tyme;
     Cube cube;
 public:
-    Hypercube ();
-    Hypercube (double, double, double, double);                                 // prototype for default constructor
-    double hypVol(void) {return tyme * cube.vol(); }                            // prototype for constructor 
+    Hypercube ();                                                               // prototype for default constructor
+    Hypercube (double, double, double, double);                                 // prototype for constructor 
+    double hypVol(void) {return tyme * cube.vol(); }                            
 };
 
 Hypercube::Hypercube () : tyme(1), cube() {}                                                //default constructor
