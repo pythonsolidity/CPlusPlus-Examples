@@ -15,7 +15,7 @@ struct account {
   dob DoB;
 } acclist[2];                               //array of structs 
 
-void printacc (account acc);                //function declaration 
+void printacc (account acc);                //function prototype 
 
 int main ()
 {
